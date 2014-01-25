@@ -46,6 +46,7 @@ public class CardCreatorPanel extends JPanel{
     
     //hello
     //How how are you
+    //yes
     
     private Controller controller;
     private TabPane tabPane; //needed to react to card creation events
