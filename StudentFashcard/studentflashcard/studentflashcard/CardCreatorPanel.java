@@ -45,6 +45,7 @@ public class CardCreatorPanel extends JPanel{
     private JButton clearPictureField; //a button that clears the picture field
     
     //hello
+    //How how are you
     
     private Controller controller;
     private TabPane tabPane; //needed to react to card creation events
